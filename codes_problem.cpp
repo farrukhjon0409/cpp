@@ -21,6 +21,7 @@ int main() {
   cout << myCar1.brand << " " << myCar1.model << " " << myCar1.year << "\n";
   cout << myCar2.brand << " " << myCar2.model << " " << myCar2.year << "\n";
   cout << "qannnay bachallalalallala"<< endl;
+  cout << "bugun pepsi ichmayman!";
     return 0;
 }
 
