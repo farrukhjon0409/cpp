@@ -1,15 +1,13 @@
 #include <iostream>
 using namespace std;
 
-double factorial(int x){
-	if (x == 0)  return 1;
-	if (x != 0) return x*factorial(x-1); };
+
+	
 
 int main() {
-	int n,s;
-	cout <<"son kiriting "; 
-	cin >> n;
-	s = factorial(n);
-	cout << s << endl;
+char bir,ikki,uch,tor,besh,olti,yetti,sakkiz,toqqiz;
+cin >> bir >> ikki>>  uch >> tor >> besh >> olti>>  yetti>>sakkiz>>toqqiz;
+cout<< bir<<" | "<<ikki<<" | "<<uch<<"\n"<<"_________"<<"\n\n"<<tor<<" | "<<besh<<" | "<<olti<<"\n"<<"_________"<<"\n\n"<<yetti<<" | "<<sakkiz<<" | "<<toqqiz;
+
   return 0;
 }

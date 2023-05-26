@@ -20,7 +20,8 @@ int main() {
   // Print the structure members
   cout << myCar1.brand << " " << myCar1.model << " " << myCar1.year << "\n";
   cout << myCar2.brand << " " << myCar2.model << " " << myCar2.year << "\n";
-  cout << "bugun pepsi ichmayman!"<<endl;
+  cout << "qannnay bachallalalallala"<< endl;
+  cout << "bugun pepsi ichmayman!"<< endl;
     return 0;
 }
 
